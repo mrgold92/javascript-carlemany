@@ -1,0 +1,14 @@
+.btn-vote {
+    margin: 5px;
+    min-width: 120px;
+  }
+  
+  .chart-container {
+    max-width: 600px;
+    margin: 20px auto;
+  }
+  
+  .btn-reset {
+    background-color: #dc3545;
+    color: white;
+  }

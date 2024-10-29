@@ -1,0 +1,17 @@
+.additional {
+  display: block;
+  transition: all 0.3s ease;
+}
+
+
+.additional.hidden {
+  display: none;
+  opacity: 0;
+}
+
+
+.additiona.visible {
+  display: block;
+  opacity: 1;
+}
+
